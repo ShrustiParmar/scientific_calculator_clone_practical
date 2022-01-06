@@ -24,7 +24,6 @@ td{
     padding: 8px 26px;
     cursor: pointer;
     text-align: center;
-    background-color: lightblue;
 }
 .row1 th,.row2 td,.row3 td,.row4 td,.row5 td,.row6 td,.row7 td,.row8 td,.row9 td,.row10 td,.row11 td{
     border: 3px solid #f0f0f5;
@@ -32,11 +31,8 @@ td{
 .row2 td,.row3 td,.row4 td,.row5 td,.row6 td,.row7 td,.row8 td,.row9 td,.row10 td,.row11 td{
     background-color: white;
 }
-/* .equal row11{
-    background-color: lightblue;
-} */
 td:hover{
-    background-color: lightblue;
+    background-color: rgb(119, 140, 184);;
 }
 td:active{
     opacity: 0.8;
@@ -116,9 +112,6 @@ th{
 .off-MC-MR{
     opacity: 0.2;
 }
-#btn1{
-    font-weight: 420px;
-}
 .on-MC-MR{
     opacity: 1;
 }
@@ -135,20 +128,6 @@ th{
 .plus{
     font-size: 22px;
 }
-/* .equal{
+.equal{
     font-size: 22px;
-    background-color: lightblue; 
 }
-.bg-equal {
-    background-color: lightblue;
-}
-#equal{
-    background-color: rgb(53, 121, 184);
-}
-.button {
-    border: 0.1px  #999;
-    line-height: 50px;
-    text-align: center;
-    font-size: 20px;
-    cursor: pointer;
-} */
